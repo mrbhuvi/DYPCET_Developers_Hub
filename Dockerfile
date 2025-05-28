@@ -1,5 +1,5 @@
 FROM ubuntu
-
+#directory
 WORKDIR /app
 
 COPY requirements.txt /app/
